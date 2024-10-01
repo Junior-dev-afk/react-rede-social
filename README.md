@@ -1,4 +1,4 @@
-Rede Social com React e Node.js
+Rede Social inspirada no X com React e Node.js
 
 Este projeto é uma rede social simples desenvolvida com React para o frontend e Node.js para o backend. A aplicação permite que os usuários se registrem, façam login, publiquem atualizações, sigam outros usuários, curtam postagens e interajam com a comunidade.
 Funcionalidades

@@ -1,0 +1,9 @@
+.container-conteudo-post{
+    width: 100%;
+    padding: 20px;
+    color: white;
+}
+
+.imagem-conteudo-post{
+    width: calc( 100% - 40px );
+}

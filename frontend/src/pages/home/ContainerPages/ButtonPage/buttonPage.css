@@ -1,0 +1,28 @@
+.container-button-pages{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    overflow-y: scroll;
+}
+
+.button-pages{
+    border-radius: 15px;
+    width: 95%;
+    height: 40px;
+    margin-top: 15px;
+    color: white;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding-block: 5px;
+}
+
+.button-pages-selected{
+    background-color: rgb(43, 43, 43);
+}
+
+.icon-button-pages{
+    width: 20px;
+    height: 20px;
+    margin-inline: 15px;
+}

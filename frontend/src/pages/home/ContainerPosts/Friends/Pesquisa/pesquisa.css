@@ -1,0 +1,22 @@
+.container-pesquisa{
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    color: white;
+    justify-content: center;
+    background-color: rgb(0, 0, 0);
+    position: sticky;
+    top: 0;
+}
+
+.input-pesquisa-amigos{
+    width: 250px;
+    padding: 5px;
+    outline: 1px solid white;
+    border: none;
+    border-radius: 6px;
+    background-color: transparent;
+    color: white;
+    padding-inline: 15px;
+}
+

@@ -1,0 +1,6 @@
+.container-infos-profile{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    width: 100%;
+}
